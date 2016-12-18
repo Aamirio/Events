@@ -1,6 +1,6 @@
 package com.tech.mai.events.consumer;
 
-import com.tech.mai.events.rest.domain.WeatherData;
+import com.tech.mai.events.consumer.domain.WeatherData;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.web.client.RestTemplate;

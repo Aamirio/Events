@@ -1,8 +1,7 @@
 package com.tech.mai.events.consumer;
 
-import com.evdb.javaapi.data.Event;
-import com.tech.mai.events.rest.domain.Forecast;
-import com.tech.mai.events.rest.domain.WeatherData;
+import com.tech.mai.events.consumer.domain.Forecast;
+import com.tech.mai.events.consumer.domain.WeatherData;
 import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

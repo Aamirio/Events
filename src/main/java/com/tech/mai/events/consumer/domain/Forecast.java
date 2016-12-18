@@ -1,4 +1,4 @@
-package com.tech.mai.events.rest.domain;
+package com.tech.mai.events.consumer.domain;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
